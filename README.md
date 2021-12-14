@@ -1,6 +1,12 @@
-### 안녕하세요 👋
+## 안녕하세요 👋
 
-iOS를 공부합니다 !
+### About Me 🤓 
+
+디자인씽킹을 하며 iOS를 공부합니다 !
+
+UI 와 UX 에 관심이 많습니다 !
+
+
 <!--
 **LeeSungNo-ian/LeeSungNo-ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
