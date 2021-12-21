@@ -6,7 +6,7 @@
 
 `UI` 와 `UX` 에 관심이 정말 많습니다 !
 
-`플로깅` 을 주로 합니다 !
+`플로깅` 이 취미입니다 !
 
 <!--
 **LeeSungNo-ian/LeeSungNo-ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
